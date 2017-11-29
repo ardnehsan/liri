@@ -7,3 +7,4 @@ var fs = require("fs");
 
 var twtClient = new Twitter(keys.twitter);
 var sptSearch = new Spotify(keys.spotify);
+
